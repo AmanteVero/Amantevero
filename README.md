@@ -9,10 +9,10 @@ Arquitecto de soluciones tecnológicas y fundador de **Avero Technologies**. Me 
 
 ## Ecosistema de Proyectos en Desarrollo
 
+* **CompraLista.app:** Aplicación web de gestión de listas de compras diseñada para consumidores, conectada directamente con comercios locales para agilizar la cotización, el envío de pedidos y la experiencia de compra.
 * **MicroGestión:** Plataforma digital de comercio y automatización para negocios locales. Integra carritos de compra automatizados y flujos de pago vía WhatsApp conectados directamente a sistemas de punto de venta (POS).
-* **catalogove:** Motor de normalización y estandarización de datos comerciales. Utiliza algoritmos propios y códigos globales (GTIN) para unificar nombres, marcas, presentaciones y fichas técnicas de productos.
-* **catiaguia:** Directorio comercial y plataforma de búsqueda local estructurada mediante flujos automatizados de extracción, limpieza y procesamiento de datos (web scraping e ingeniería inversa).
-
+* **catalogove:** Plataforma de búsqueda de productos mediante flujos automatizados de extracción, limpieza y procesamiento de datos (web scraping e ingeniería inversa) con Motor de normalización y estandarización de datos comerciales. Utiliza algoritmos propios y códigos globales (GTIN) para unificar nombres, marcas, presentaciones y fichas técnicas de productos.
+* **catiaguia:** Directorio empresarial, comercial y profesional Hiperlocal con plataforma de búsqueda local desarrollada sobre cuatro (4) pilares estructurales que conectan y armonizan la actividad comercial y profesional con la vida comunitaria de uno de los sectores populares más grandes de Caracas.
 ---
 
 ## Stack Tecnológico y Herramientas
